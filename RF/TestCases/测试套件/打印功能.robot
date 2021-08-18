@@ -1,7 +1,7 @@
 *** Test Cases ***
 打印功能001
     [Tags]    AAA
-    log    git代码仓库11
+    log    更新git代码仓库
 
 打印功能002
     [Tags]    BBB
