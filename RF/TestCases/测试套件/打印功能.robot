@@ -5,7 +5,7 @@
 
 打印功能002
     [Tags]    BBB
-    log    haidongbbbbbbbbb
+    log    macbook第二次上传内容
 
 打印功能003必报错
     22222222222
